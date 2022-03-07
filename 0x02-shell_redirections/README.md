@@ -2,4 +2,5 @@ Task 0.Printing of hello world
 Task 1. Printing a smiley face
 Task 2. Printing one file /etc/passwd
 Task 3. Printing two file /etc/passwd and /etc/hosts
-TASK 4. Listing the last ten lines of file etc/passwd
+TASK 4. Listing the last ten lines of file /etc/passwd
+Task 5. Listint the first ten lines of file /etc/passwd
