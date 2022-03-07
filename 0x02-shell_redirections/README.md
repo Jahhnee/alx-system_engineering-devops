@@ -10,4 +10,5 @@ Task 8 Writing a script that writes into the file ls_cwd_content the result of t
 Task 9. Duplicating the last line of the file iacta
 Task 10. Writing a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
 Task 11. Writing a script that counts the number of directories and sub-directories in the current directory, where the current and parent directories should not be taken into account and hidden directories should be counted
-Task 12 Creating a script that displays the 10 newest files in the current directory with one file per line and sorted from the newest to the oldest
+Task 12. Creating a script that displays the 10 newest files in the current directory with one file per line and sorted from the newest to the oldest
+Task 13. Creating a script that takes a list of words as input and prints only words that appear exactly once
