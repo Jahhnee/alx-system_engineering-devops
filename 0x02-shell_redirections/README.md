@@ -4,3 +4,4 @@ Task 2. Printing one file /etc/passwd
 Task 3. Printing two file /etc/passwd and /etc/hosts
 TASK 4. Listing the last ten lines of file /etc/passwd
 Task 5. Listint the first ten lines of file /etc/passwd
+Task 6. Displaying the third line in file iacta
