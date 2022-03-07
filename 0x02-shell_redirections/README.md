@@ -23,3 +23,4 @@ Task 21. Writing a script that reverse its input.
 Task 22. Writing a script that displays all users and their home directories, sorted by users base on the the /etc/passwd file
 Tsk 23. Write a command that finds all empty files and directories in the current directory and all sub-directories.
 Task 24. Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
+Task 25. Create a script that decodes acrostics that use the first letter of each line.
