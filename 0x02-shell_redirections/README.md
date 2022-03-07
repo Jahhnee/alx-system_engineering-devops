@@ -6,3 +6,4 @@ TASK 4. Listing the last ten lines of file /etc/passwd
 Task 5. Listint the first ten lines of file /etc/passwd
 Task 6. Displaying the third line in file iacta
 Task 7. Creating a file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with a text Best School in it
+Task 8 Writing a script that writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten. If the file ls_cwd_content does not exist, create it.
