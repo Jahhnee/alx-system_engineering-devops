@@ -18,3 +18,4 @@ Task 16. Displaying lines containing the pattern “root” and 3 lines after th
 Task 17. Displaying all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 Task 18. Displaying all lines of the file /etc/ssh/sshd_config starting with a letter including capital letters
 Task 19. Replacing all characters A and c from input to Z and e respectively.
+Task 20. Creating a script that removes all letters c and C from input.
