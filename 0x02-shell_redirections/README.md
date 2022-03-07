@@ -14,3 +14,4 @@ Task 12. Creating a script that displays the 10 newest files in the current dire
 Task 13. Creating a script that takes a list of words as input and prints only words that appear exactly once
 Task 14. Displaying lines containing the pattern “root” from the file /etc/passwd
 Task 15. Displaying the number of lines that contain the pattern “bin” in the file /etc/passwd
+Task 16. Displaying lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
