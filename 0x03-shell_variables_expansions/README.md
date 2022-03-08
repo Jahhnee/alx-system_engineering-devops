@@ -9,3 +9,4 @@ Task 7. Create a script that creates a new global variable wit name BEST and var
 Task 8. Write a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line
 Task 9. Write a script that prints the result of POWER divided by DIVIDE, followed by a new line. all environment variable
 Task 10. Write a script that displays the result of BREATH to the power LOVE follow by a new line. Both environment variable
+TAsk 11. Write a script that converts a number from base 2 to base 10, based 2 numbers is sored in BINARY and display number in base follow by anew line
