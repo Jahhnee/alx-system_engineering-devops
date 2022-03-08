@@ -10,3 +10,4 @@ Task 8. Write a script that prints the result of the addition of 128 with the va
 Task 9. Write a script that prints the result of POWER divided by DIVIDE, followed by a new line. all environment variable
 Task 10. Write a script that displays the result of BREATH to the power LOVE follow by a new line. Both environment variable
 TAsk 11. Write a script that converts a number from base 2 to base 10, based 2 numbers is sored in BINARY and display number in base follow by anew line
+Task 12. Create a script that prints all possible combinations of two letters, except oo, letters are lower cases,alpha ordered output starting with aa, do not print oo, one combinationn line
