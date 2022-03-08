@@ -12,3 +12,4 @@ Task 10. Write a script that displays the result of BREATH to the power LOVE fol
 TAsk 11. Write a script that converts a number from base 2 to base 10, based 2 numbers is sored in BINARY and display number in base follow by anew line
 Task 12. Create a script that prints all possible combinations of two letters, except oo, letters are lower cases,alpha ordered output starting with aa, do not print oo, one combinationn line
 Task 13. Write a script that prints a number with two decimal places, followed by a new line, with number stored in an environment variable NUM
+Task 14. Write a script that converts a number from base 10 to base 16,The number in base 10 is stored in the environment variable DECIMAL,The script should display the number in base 16, followed by a new line
